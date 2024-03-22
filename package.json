@@ -1,0 +1,33 @@
+{
+  "name": "excepturienim",
+  "version": "1.0.0",
+  "description": "Get the latest version of a CSS or JavaScript library hosted on CDNJS",
+  "main": "index.js",
+  "keywords": [
+    "latest",
+    "library",
+    "css",
+    "et",
+    "cdnjs",
+    "consequatur"
+  ],
+  "author": "ReyesLemke",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HiramHudson/excepturienim.git"
+  },
+  "dependencies": {
+    "got": "^6.7.1"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "xo": "^0.18.1"
+  },
+  "engines": {
+    "node": ">= 6.10.2"
+  },
+  "bugs": {
+    "url": "https://github.com/HiramHudson/excepturienim.git/issues"
+  }
+}
